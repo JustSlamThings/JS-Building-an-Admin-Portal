@@ -5,7 +5,7 @@
       "title": "The Shinobi Initiative",
       "description": "The reality-bending adventures of a clandestine service agency in the year 2166",
       "year": 2014,
-      "quantity": "10",
+      "quantity": "500",
       "imageURL": "/assets/shinobi-initiative.jpeg"
     },
     {
@@ -13,7 +13,7 @@
       "title": "Tess the Wonder Dog",
       "description": "The tale of a dog who gets super powers",
       "year": 2007,
-      "quantity": "3",
+      "quantity": "499",
       "imageURL": "/assets/tess.jpg"
     },
     {
@@ -21,7 +21,7 @@
       "title": "The Legends of Arathrae",
       "description": "This anthology tells the intertwined narratives of six fairy tales.",
       "year": 2016,
-      "quantity": "8",
+      "quantity": "300",
       "imageURL": "/assets/arathrae.jpeg"
     },
     {
@@ -29,8 +29,24 @@
       "title": "W∀RP",
       "description": "A time-space anomaly folds matter from different points in earth's history in on itself, sending six unlikely heroes on a race against time as worlds literally collide.",
       "year": 2010,
-      "quantity": "4",
+      "quantity": "500",
       "imageURL": "/assets/warp.jpeg"
+    },
+    {
+      "id": 5,
+      "title": "JavaScript for Dummies ",
+      "year": "2004",
+      "quantity": "400",
+      "imageURL": "https://img.thriftbooks.com/api/images/m/6228877e993f091a62a22d909b279abb4838cfdb.jpg",
+      "description": "A book for teaching Javascript. "
+    },
+    {
+      "id": 6,
+      "title": "CSS Web Design for Dummies",
+      "year": "2005",
+      "quantity": "400",
+      "imageURL": "https://img.thriftbooks.com/api/images/m/e5b892361b74a9ed9634588345d5c16192009677.jpg",
+      "description": "This book is the perfect beginner reference, showing those new to CSS how to design Web pages and implement numerous useful CSS effects available"
     }
   ]
 }
